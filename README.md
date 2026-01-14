@@ -1,6 +1,7 @@
-# N4V FOR WEBI — Advanced Data Visualization for SAP BusinessObjects
+# N4V FOR WEBI — Advanced Data Visualization & AI for SAP BusinessObjects
 
-> Transform your SAP Web Intelligence reports into interactive, modern dashboards with 60+ widgets, geographic maps, AI-powered queries, and HTML5 exports.
+> N4V FOR WEBI: the ultimate upgrade for Web Intelligence, now powered by AI!
+Transform SAP Webi into one of the most complete DataViz solutions on the market. Modern charts, mapping, advanced interactivity, unlimited exports… and a conversational AI to build your queries in natural language — and much more. Join the revolution!
 
 [![SAP Certified Integration](https://img.shields.io/badge/SAP-Certified%20Integration-0FAAFF?style=flat&logo=sap)](https://store.sap.com)
 [![BI 2025 Compatible](https://img.shields.io/badge/SAP%20BI-2025%20Compatible-success)](https://www.need4viz.com)
