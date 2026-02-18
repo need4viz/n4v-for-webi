@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "@id": "https://www.need4viz.com/sap-web-intelligence-extensions/#faq",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is Need4Viz (N4V FOR WEBI)?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Need4Viz is the only software vendor providing 60+ interactive graphical components natively integrated into SAP BusinessObjects Web Intelligence (Webi). The N4V FOR WEBI extension transforms standard Webi reports into modern, interactive dashboards with advanced charts, GIS mapping, HTML5 export, and AI-powered analytics — without code and without changing tools."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Need4Viz compatible with SAP BI 2025?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Need4Viz is fully compatible with SAP BI 2025 (formerly SAP BusinessObjects BI). It also supports SAP BO 4.2 SP08+ and SAP BO 4.3. Need4Viz is an SAP Silver Partner and is available on the SAP Store."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How does Need4Viz compare to Power BI for SAP BusinessObjects users?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Unlike Power BI which requires migrating to a completely new platform, Need4Viz integrates natively into your existing SAP Web Intelligence environment. You keep your universes, queries, and reports while gaining modern visualization, mapping, and AI capabilities. There is no change management, no data migration, and no additional licensing model to manage."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can I share SAP Web Intelligence dashboards without BusinessObjects licenses?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, with N4V Publisher you can export interactive HTML5 dashboards that can be shared with anyone via a web browser — without requiring SAP BusinessObjects licenses. This enables unlimited sharing with clients, partners, and external collaborators."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What AI features does Need4Viz offer for SAP Web Intelligence?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "N4V Intelligence provides three AI modules: Natural Language Query (NLQ) to ask questions in plain language and get instant charts (available in English, French, German, Spanish, Italian, Portuguese), Chart Recommender to automatically suggest the most relevant visualization for your data, and Predictive Series for trend detection and forecasting. Available from SAP BO 4.3 SP03+."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does Need4Viz require coding or development skills?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. N4V FOR WEBI is a code-free solution. You configure widgets, maps, and AI features through a visual interface directly within SAP Web Intelligence. No development skills are required, and deployment takes minutes rather than months."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is there a free version of Need4Viz?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Need4Viz offers a Freemium version for SAP BusinessObjects 4.3 SP02+ that includes a selection of chart components at no cost. SAP also bundles 7 Need4Viz charts with SAP BO 4.3 SP03 as part of a freemium offer."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Need4Viz a replacement for SAP Lumira?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Need4Viz is an excellent replacement for SAP Lumira Discovery and Designer, which have reached end of life. N4V FOR WEBI provides equivalent dashboard capabilities (interactive charts, maps, KPIs) while keeping your existing SAP Web Intelligence environment intact. Unlike Lumira, Need4Viz is actively developed with regular updates, AI features, and is supported by SAP's partner ecosystem."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many chart components does Need4Viz provide?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "N4V FOR WEBI provides 60+ interactive chart components including advanced bar/line/area charts, Gantt charts, Waterfall and Waterfall Delta, Pivot Tables, KPI Tiles, Chart Tiles, Timelines, Multichart, Drillbar navigation, Jauges (gauges), Sparklines, Radar, Polar charts, and more. All components support drill-down, alerters, and responsive layouts."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who are Need4Viz's customers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Need4Viz serves 150,000+ users across 80+ organizations worldwide, including McKesson (USA, Fortune 8), American Red Cross (USA), Banque de France, Gendarmerie Nationale (France), Chantiers de l'Atlantique (France), University of Queensland (Australia), Utrecht University (Netherlands), and many more across healthcare, public sector, manufacturing, banking, retail, and education."
+            }
+        }
+    ]
+}

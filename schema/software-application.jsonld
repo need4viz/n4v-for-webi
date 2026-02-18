@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "@id": "https://www.need4viz.com/#software",
+    "name": "N4V FOR WEBI",
+    "alternateName": ["Need4Viz", "N4V", "N4V for Web Intelligence"],
+    "applicationCategory": "BusinessApplication",
+    "applicationSubCategory": "Data Visualization & Business Intelligence",
+    "operatingSystem": "SAP BusinessObjects BI Platform",
+    "softwareRequirements": "SAP BusinessObjects BI 4.2 SP08+ or SAP BO 4.3 or SAP BI 2025",
+    "description": "N4V FOR WEBI is the only SAP-certified native extension providing 60+ interactive chart components, full GIS mapping, HTML5 dashboard export without BO license, and AI-powered analytics for SAP BusinessObjects Web Intelligence.",
+    "url": "https://www.need4viz.com",
+    "downloadUrl": "https://www.need4viz.com/freemium/",
+    "installUrl": "https://www.need4viz.com/freemium/",
+    "screenshot": "https://www.need4viz.com/N4VPublisher/home/",
+    "author": {
+        "@type": "Organization",
+        "@id": "https://www.need4viz.com/#organization",
+        "name": "Need4Viz"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.need4viz.com/#organization",
+        "name": "Need4Viz"
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "N4V Freemium",
+            "price": "0",
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock",
+            "url": "https://www.need4viz.com/freemium/",
+            "description": "Free version with selected chart components for SAP BO 4.3 SP02+"
+        },
+        {
+            "@type": "AggregateOffer",
+            "name": "N4V Premium",
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock",
+            "url": "https://www.need4viz.com/pricing/",
+            "description": "Full suite with 60+ widgets, maps, publisher, and AI"
+        }
+    ],
+    "featureList": [
+        "60+ interactive chart components (Gantt, Waterfall, Pivot Table, KPI Tiles, Multichart, etc.)",
+        "Full GIS mapping (Google Maps, OpenStreetMap, offline maps, custom floor plans)",
+        "HTML5 interactive dashboard export without SAP BO licenses (N4V Publisher)",
+        "AI-powered Natural Language Query (NLQ) in 6 languages",
+        "AI Chart Recommender for automatic visualization suggestions",
+        "Predictive Series for trend detection and forecasting",
+        "Data Analyzer with multi-level sorting and conditional formatting",
+        "Drillbar navigation between reports and blocks",
+        "Export to Word, Excel, PowerPoint, PDF, PNG, CSV",
+        "No-code configuration — visual interface only",
+        "Native SAP Web Intelligence integration — no change management",
+        "Compatible with SAP BI 2025, SAP BO 4.3, SAP BO 4.2 SP08+"
+    ],
+    "award": [
+        "SAP Silver Partner",
+        "Available on SAP Store",
+        "Available on AWS Marketplace"
+    ],
+    "review": [
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Hayden Gill",
+                "jobTitle": "Associate Director BI"
+            },
+            "reviewBody": "Need4Viz provides the type of functionality that Web Intelligence users have been asking SAP for years. The team is responsive and a pleasure to deal with.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "University of Queensland"
+            }
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Kevin Kearney",
+                "jobTitle": "BI Consultant"
+            },
+            "reviewBody": "Working with Need4Viz has been a breath of fresh air. Simply put, our organization had a NEED4VIZ and they made it happen.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "McKesson"
+            }
+        }
+    ]
+}

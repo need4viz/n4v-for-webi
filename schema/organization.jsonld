@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://www.need4viz.com/#organization",
+    "name": "Need4Viz",
+    "alternateName": ["N4V", "Need4Viz SAS"],
+    "url": "https://www.need4viz.com",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.need4viz.com/wp-content/uploads/2023/01/need4viz-logo.png",
+        "width": 300,
+        "height": 60
+    },
+    "image": "https://www.need4viz.com/wp-content/uploads/2023/01/need4viz-logo.png",
+    "description": "Need4Viz is the only software vendor providing 60+ interactive graphical components natively integrated into SAP BusinessObjects Web Intelligence. SAP Silver Partner with 150,000+ users worldwide.",
+    "slogan": "The Ultimate SAP Web Intelligence Upgrade",
+    "foundingDate": "2020",
+    "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "minValue": 2,
+        "maxValue": 10
+    },
+    "address": [
+        {
+            "@type": "PostalAddress",
+            "streetAddress": "37 Rue des Mathurins",
+            "addressLocality": "Paris",
+            "postalCode": "75008",
+            "addressRegion": "Ile-de-France",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "France"
+            }
+        },
+        {
+            "@type": "PostalAddress",
+            "streetAddress": "333 S.E. 2nd Avenue",
+            "addressLocality": "Miami",
+            "addressRegion": "FL",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "United States"
+            }
+        }
+    ],
+    "contactPoint": [
+        {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "email": "contact@need4viz.com",
+            "availableLanguage": ["English", "French"]
+        },
+        {
+            "@type": "ContactPoint",
+            "contactType": "technical support",
+            "url": "https://support.need4viz.com",
+            "availableLanguage": ["English", "French"]
+        }
+    ],
+    "sameAs": [
+        "https://www.linkedin.com/company/n4v",
+        "https://www.crunchbase.com/organization/need4viz",
+        "https://github.com/need4viz",
+        "https://blogs.sap.com/2022/12/21/boost-your-sap-businessobjects-bi-4.3-visualizations-with-need4viz-addons/"
+    ],
+    "award": "SAP Silver Partner",
+    "knowsAbout": [
+        "SAP BusinessObjects",
+        "SAP Web Intelligence",
+        "Data Visualization",
+        "Business Intelligence",
+        "GIS Mapping",
+        "AI Analytics",
+        "Natural Language Processing",
+        "Dashboard Design",
+        "SAP BI 2025"
+    ],
+    "areaServed": {
+        "@type": "Place",
+        "name": "Worldwide"
+    },
+    "parentOrganization": {
+        "@type": "Organization",
+        "name": "SAP Partner Ecosystem",
+        "url": "https://www.sap.com/partners.html"
+    }
+}
