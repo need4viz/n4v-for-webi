@@ -31,7 +31,7 @@ N4V FOR WEBI is a comprehensive extension suite composed of four modules, all in
 | **N4V Publisher** | Export interactive HTML5 dashboards without SAP BO licenses — share with anyone, anywhere |
 | **N4V Intelligence** | AI-powered analytics — Natural Language Query (NLQ), Chart Recommender, Automated Insights, Predictive Series |
 
-N4V FOR WEBI is **fully compatible with SAP BusinessObjects BI 4.2 (SP8+), BI 4.3 and BI 2025**.
+N4V FOR WEBI is **fully compatible with SAP BusinessObjects BI 4.2 (SP3+), BI 4.3 and BI 2025**.
 
 ---
 
