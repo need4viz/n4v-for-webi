@@ -1,288 +1,165 @@
-# N4V FOR WEBI — Advanced Data Visualization & AI for SAP BusinessObjects
+# Need4Viz â N4V FOR WEBI
 
-> N4V FOR WEBI: the ultimate upgrade for Web Intelligence, now powered by AI!
-Transform SAP Webi into one of the most complete DataViz solutions on the market. Modern charts, mapping, advanced interactivity, unlimited exports… and a conversational AI to build your queries in natural language — and much more. Join the revolution!
+**The Ultimate SAP Web Intelligence Upgrade** â modern dataviz, mapping, HTML5 publishing and AI, all inside SAP BusinessObjects. No migration. No change management. No new tool.
 
-[![SAP Certified Integration](https://img.shields.io/badge/SAP-Certified%20Integration-0FAAFF?style=flat&logo=sap)](https://store.sap.com)
-[![BI 2025 Compatible](https://img.shields.io/badge/SAP%20BI-2025%20Compatible-success)](https://www.need4viz.com)
-[![License: Commercial](https://img.shields.io/badge/License-Commercial-blue)](https://www.need4viz.com/contact/)
+[![SAP Silver Partner](https://img.shields.io/badge/SAP-Silver%20Partner-0073E7)](https://www.sap.com/) [![SAP Store](https://img.shields.io/badge/SAP-Store-0073E7)](https://store.sap.com/) [![AWS Marketplace](https://img.shields.io/badge/AWS-Marketplace-FF9900)](https://aws.amazon.com/marketplace) [![Made in France](https://img.shields.io/badge/Made%20in-France-blue)](https://www.need4viz.com)
 
 ---
 
-## 🎯 What is N4V FOR WEBI?
+## ð¯ What is Need4Viz?
 
-**N4V FOR WEBI** is a comprehensive extension suite developed by [Need4Viz](https://www.need4viz.com) that dramatically enhances SAP BusinessObjects Web Intelligence (WebI) capabilities. It solves the most common frustrations WebI users face: limited visualizations, no geographic mapping, static exports, and complex query building.
+Need4Viz is the only software vendor providing **60+ interactive graphical components natively integrated into SAP BusinessObjects Web Intelligence (Webi)**. Founded in 2020 and headquartered in Paris with a US office in Miami, Need4Viz transforms standard Webi reports into modern, interactive dashboards â without changing tools, without writing code, and without any change management.
 
-### The Problem
+More than **150,000 users** across **hundreds of organizations** worldwide rely on N4V FOR WEBI every day to modernize their SAP BusinessObjects reporting.
 
-SAP WebI is powerful for data analysis but limited in visualization options. Users often resort to exporting data to Excel or third-party tools, breaking the BI workflow and creating version control issues.
+> "Need4Viz provides the type of functionality that Web Intelligence users have been asking SAP for years."
+> â **Hayden Gill**, Associate Director BI, **University of Queensland**
 
-### The Solution
-
-N4V FOR WEBI adds enterprise-grade visualization capabilities **directly inside WebI**, maintaining data governance, security, and the familiar SAP environment.
-
----
-
-## 📊 Modules Overview
-
-### 🎨 N4V Widgets — 60+ Interactive Visualizations
-
-Transform your reports with professional-grade charts and components:
-
-| Category | Components |
-|----------|------------|
-| **Charts** | Treemaps, Waterfalls, Bullet charts, Sparklines, Combination charts |
-| **Gauges** | Radial, Linear, Speedometer, Progress bars, KPI cards |
-| **Navigation** | Tiles, Buttons, Tabs, Accordions, Filters |
-| **Time** | Gantt charts, Timelines, Calendars, Schedulers |
-| **Tables** | Enhanced tables with conditional formatting, heatmaps, inline charts |
-| **Hierarchy** | Org charts, Sunburst, Sankey diagrams |
-
-**Key Features:**
-- Drag-and-drop integration with WebI
-- Real-time interactivity (drill-down, filtering, linking)
-- Responsive design for mobile and tablets
-- Customizable themes and branding
+> "SAP does not invest in widgets, maps and AI because Need4Viz already does a fantastic job."
+> â **Eric Fenollosa, SAP**
 
 ---
 
-### 🗺️ N4V Maps — Geographic Intelligence
+## ð§© The 4-in-1 solution â N4V FOR WEBI
 
-Add powerful GIS capabilities to your BI reports:
+N4V FOR WEBI is a comprehensive extension suite composed of four modules, all integrated directly inside SAP Web Intelligence:
 
-- **Choropleth maps** — Color-coded regions by metric
-- **Point maps** — Location markers with clustering
-- **Heat maps** — Density visualization
-- **Flow maps** — Origin-destination analysis
-- **Custom shapefiles** — Support for proprietary geographic boundaries
+| Module | What it does |
+|---|---|
+| **N4V Widgets** | 60+ interactive, drillable chart components â Gantt, Waterfall, Treemap, Sankey, KPI Tiles, Gauges, Timelines, Multichart and more |
+| **N4V Maps** | Full GIS system built into Webi â Google Maps, OpenStreetMap, Mapbox, Esri ArcGIS, offline maps, custom shapefiles, drillable territories, floor plans |
+| **N4V Publisher** | Export interactive HTML5 dashboards without SAP BO licenses â share with anyone, anywhere |
+| **N4V Intelligence** | AI-powered analytics â Natural Language Query (NLQ), Chart Recommender, Automated Insights, Predictive Series |
 
-**Supported map providers:**
-- OpenStreetMap
-- Mapbox
-- Esri ArcGIS
-- Custom tile servers
+N4V FOR WEBI is **fully compatible with SAP BusinessObjects BI 4.2 (SP8+), BI 4.3 and BI 2025**.
 
 ---
 
-### 📈 N4V Analysis — Advanced Data Exploration
+## ð¡ Why Need4Viz?
 
-Empower users with self-service analytics:
-
-- **Drill-down / Drill-through** — Navigate data hierarchies
-- **What-if analysis** — Scenario modeling
-- **Statistical functions** — Trending, forecasting, variance analysis
-- **Dynamic filtering** — Cross-report filtering
-- **Data storytelling** — Guided analytics paths
-
----
-
-### 📤 N4V Publisher — Share Reports Anywhere
-
-Break free from the BI Launchpad:
-
-- **HTML5 Export** — Fully interactive reports outside SAP
-- **Scheduled publishing** — Automated report distribution
-- **Email integration** — Send reports with dynamic content
-- **Portal embedding** — Integrate into SharePoint, intranets
-- **Offline viewing** — Reports work without server connection
-- **Export to Office** — Generate Word, Excel, PowerPoint from WebI
+- **No change management** â it's a native Webi add-on, not a new tool
+- **Keep your existing setup** â your universes, queries, reports, prompts, security and schedules stay as-is
+- **No code required** â configure, don't develop
+- **HTML export without BO license** â share dashboards with unlimited users
+- **AI built-in** â ask questions in natural language, get instant charts in English or French
+- **Protect your SAP BO investment** â modernize without migrating to another BI platform
+- **Compatible with SAP BI 2025** â one of the first partner solutions certified
+- **Server-side only** â no client installation, no browser extension, no plug-in
+- **Inherits SAP BO security** â row-level security, universe rights, SSO (SAML, Kerberos, trusted authentication)
 
 ---
 
-### 🤖 N4V Intelligence — AI-Powered BI
+## ð Global reach
 
-The future of business intelligence:
-
-- **Natural Language Query (NLQ)** — Ask questions in plain English or French
-  - *"Show me sales by region for Q3"*
-  - *"Compare this year vs last year by product category"*
-- **Smart suggestions** — AI recommends relevant analyses
-- **Automated insights** — Discover anomalies and trends automatically
-- **Query optimization** — AI improves query performance
+- **150,000+** end users worldwide
+- **hundreds of** customer organizations across all continents
+- Offices in **Paris** (37 rue des Mathurins, 75008) and **Miami** (333 S.E. 2nd Avenue)
+- **SAP Silver Partner** and listed on the **SAP Store**
+- Available on **AWS Marketplace**
+- Recognized by SAP as a strategic partner for extending Webi â **SAP Analytics Roadmap 2025**
 
 ---
 
-## 🔧 Technical Specifications
+## ð¢ Trusted by hundreds of organizations across industries
 
-### Compatibility
+| Sector | Notable clients |
+|---|---|
+| **Healthcare / Pharma** | McKesson (USA), MD Anderson (USA), CHU Lille, CHU Dijon, CHEM (Luxembourg) |
+| **Public sector** | Banque de France, Gendarmerie Nationale, Cour des Comptes, UGAP |
+| **Manufacturing** | Chantiers de l'Atlantique, GRDF, Minerai de Fer Quebec (Canada), Sohar Aluminium (Oman) |
+| **Banking / Finance** | Banque de France, Monaco Asset Management, RBI (India), FGV (France) |
+| **Retail** | Clarins, UGC, KMD (Denmark) |
+| **Education & research** | University of Queensland (Australia), Utrecht University (Netherlands), CNED (France) |
 
-| SAP BusinessObjects Version | N4V Support |
-|----------------------------|-------------|
-| BI Platform 4.2 SP8+ | ✅ Full support |
-| BI Platform 4.3 | ✅ Full support |
-| BI Platform 2025 | ✅ Full support |
-
-### Requirements
-
-- SAP BusinessObjects BI Platform 4.2 SP8 or higher
-- Web Intelligence (WebI)
-- Modern browser (Chrome, Firefox, Edge, Safari)
-- Server-side installation (no client deployment needed)
-
-### Architecture
-
-```
-┌─────────────────────────────────────────────┐
-│           SAP BI Platform                    │
-│  ┌─────────────────────────────────────┐    │
-│  │         Web Intelligence            │    │
-│  │  ┌─────────────────────────────┐   │    │
-│  │  │      N4V FOR WEBI           │   │    │
-│  │  │  ┌─────────┬──────────┐    │   │    │
-│  │  │  │ Widgets │   Maps   │    │   │    │
-│  │  │  ├─────────┼──────────┤    │   │    │
-│  │  │  │ Analysis│ Publisher│    │   │    │
-│  │  │  ├─────────┴──────────┤    │   │    │
-│  │  │  │   Intelligence     │    │   │    │
-│  │  │  └────────────────────┘    │   │    │
-│  │  └─────────────────────────────┘   │    │
-│  └─────────────────────────────────────┘    │
-└─────────────────────────────────────────────┘
-```
+More references and verbatim testimonials: [docs/customers.md](https://github.com/need4viz/n4v-for-webi/blob/main/docs/customers.md)
 
 ---
 
-## 🚀 Getting Started
+## ð SAP partnership
 
-### Installation
+SAP has publicly recognized Need4Viz as a strategic partner in the Web Intelligence ecosystem. During the **SAP Analytics Roadmap 2025** communications, SAP confirmed that Web Intelligence remains a pillar of its analytics strategy â with Need4Viz named as the primary partner extending Webi with visualization, maps and AI.
 
-1. **Download** the N4V FOR WEBI package from [Need4Viz](https://www.need4viz.com) or [SAP Store](https://store.sap.com)
-2. **Deploy** the extension to your SAP BO server
-3. **Configure** licensing through the N4V administration console
-4. **Start creating** enhanced reports in Web Intelligence
-
-📖 [Full Installation Guide](https://www.need4viz.com/documentation/)
-
-### Quick Start
-
-1. Open Web Intelligence
-2. Create or edit a report
-3. Access N4V components from the extension panel
-4. Drag a widget onto your report
-5. Bind data and customize
-
-🎥 [Video Tutorials](https://www.need4viz.com/ressources/videos/)
+N4V FOR WEBI is:
+- **SAP Certified** for integration with SAP BusinessObjects
+- Listed on the **SAP Store**
+- Listed on the **AWS Marketplace**
+- Covered in the **SAP Community blog** and in partner publications (Decivision, Seenovate)
 
 ---
 
-## 💼 Use Cases
+## ð§  AI at the heart of Webi
 
-### Finance
-- Executive dashboards with KPI tiles and gauges
-- Budget variance analysis with waterfall charts
-- Cash flow visualization with Sankey diagrams
+N4V Intelligence brings modern AI features directly inside SAP Webi, without migrating away from SAP BO:
 
-### Sales & Marketing
-- Territory performance maps
-- Sales pipeline funnels
-- Customer segmentation treemaps
+- **Natural Language Query (NLQ)** â ask in English or French, get a Webi query on your existing universe
+- **Chart Recommender** â automatic choice of the best visualization from the N4V Widgets catalog
+- **Automated insights** â highlight anomalies, trends and outliers in your reports
+- **Predictive series** â forecast future values directly on time-series visuals
 
-### Operations
-- Project tracking with Gantt charts
-- Supply chain flow visualization
-- Real-time operational dashboards
-
-### HR
-- Organizational charts
-- Workforce analytics dashboards
-- Headcount evolution timelines
+Read about N4V Intelligence: https://github.com/need4viz/n4v-for-webi/blob/main/docs/ai-features.md
 
 ---
 
-## 🌍 Customers
+## ð Explore the knowledge base
 
-N4V FOR WEBI is trusted by organizations worldwide across industries:
+Our public GitHub knowledge base in the [n4v-for-webi](https://github.com/need4viz/n4v-for-webi) repository contains everything you need to understand, evaluate and deploy N4V FOR WEBI:
 
-- **Manufacturing** — Production dashboards, quality metrics
-- **Retail** — Store performance maps, inventory analysis
-- **Healthcare** — Patient flow, resource allocation
-- **Public Sector** — Budget transparency, citizen services
-- **Financial Services** — Risk dashboards, portfolio analysis
-
----
-
-## 📚 Resources
-
-| Resource | Link |
-|----------|------|
-| 🌐 Website | [www.need4viz.com](https://www.need4viz.com) |
-| 📖 Documentation | [Documentation](https://www.need4viz.com/documentation/) |
-| 🎥 Videos | [Video Tutorials](https://www.need4viz.com/ressources/videos/) |
-| 📝 Release Notes | [Releases](https://www.need4viz.com/releases/) |
-| 💬 Contact | [Contact Us](https://www.need4viz.com/contact/) |
-| 🛒 SAP Store | [SAP Store Listing](https://store.sap.com) |
+- **[FAQ (40+ Q&A)](https://github.com/need4viz/n4v-for-webi/blob/main/docs/faq.md)** â product, installation, security, pricing, migration, AI
+- **[Glossary](https://github.com/need4viz/n4v-for-webi/blob/main/docs/glossary.md)** â SAP BO, Webi, GIS, AI terms explained
+- **[Use cases by industry](https://github.com/need4viz/n4v-for-webi/blob/main/docs/use-cases.md)** â healthcare, public sector, manufacturing, finance, retail and more
+- **[Comparisons](https://github.com/need4viz/n4v-for-webi/blob/main/docs/comparisons.md)** â vs Power BI, Tableau, SAC, Qlik
+- **[Customers & testimonials](https://github.com/need4viz/n4v-for-webi/blob/main/docs/customers.md)** â public references
+- **[Press & articles](https://github.com/need4viz/n4v-for-webi/blob/main/docs/press.md)** â SAP, Decivision, Seenovate
+- **[N4V Intelligence](https://github.com/need4viz/n4v-for-webi/blob/main/docs/ai-features.md)** â AI features in detail
 
 ---
 
-## 📰 Latest Updates
+## ð Try it live
 
-See [CHANGELOG.md](CHANGELOG.md) for version history.
-
-**Latest Release: 2025.3**
-- New: Enhanced Natural Language Query with multilingual support
-- New: Additional chart types (Marimekko, Slope charts)
-- Improved: Performance optimization for large datasets
-- Improved: Mobile responsive design
+- **SAP BI 4.2 demo:** https://demo-public.need4viz.com/BOE/BI
+- **SAP BI 4.3 demo:** https://demo-public.need4viz.com/BOE43/BI
+- **N4V Publisher demo:** https://need4viz.com/N4VPublisher/home/
 
 ---
 
-## ❓ FAQ
+## ð° Featured articles
 
-<details>
-<summary><strong>Is N4V FOR WEBI certified by SAP?</strong></summary>
+### English
+- SAP Analytics Roadmap: Web Intelligence confirmed as a pillar
+- How AI is transforming SAP Web Intelligence
+- SAP BusinessObjects BI 2025: all the new features
+- SAP Web Intelligence Extensions: Build Advanced Dashboards
+- SAP BusinessObjects + Need4Viz vs Power BI
 
-Yes, N4V FOR WEBI is SAP Certified for integration with SAP BusinessObjects.
-</details>
+### Francais
+- Business Intelligence et Datavisualisation au coeur des organisations
+- SAP Analytics Cloud vs SAP BusinessObjects + N4V
+- Comment l'IA transforme SAP Web Intelligence
 
-<details>
-<summary><strong>Do users need to install anything on their computers?</strong></summary>
-
-No, N4V FOR WEBI is installed on the server. Users access it through their standard web browser with no client-side installation required.
-</details>
-
-<details>
-<summary><strong>Can I try N4V FOR WEBI before purchasing?</strong></summary>
-
-Yes, we offer trial licenses. [Contact us](https://www.need4viz.com/contact/) to request a demo or trial.
-</details>
-
-<details>
-<summary><strong>Does N4V work with SAP BI 2025?</strong></summary>
-
-Yes, N4V FOR WEBI fully supports SAP BI 2025 and takes advantage of its new capabilities.
-</details>
-
-<details>
-<summary><strong>Is training available?</strong></summary>
-
-Yes, we provide online training, documentation, and video tutorials. Custom training sessions are also available.
-</details>
+### Partners
+- **Decivision** â [Need4Viz Intelligence: l'IA au service de SAP BusinessObjects](https://www.decivision.com/blog/sap-bi/need4viz-intelligence-l-ia-au-service-de-sap-businessobjects)
+- **Decivision** â [Partner page](https://www.decivision.com/decivision/partenaires/need4viz)
+- **Seenovate** â [Partner page](https://www.seenovate.com/partenaires/need4viz/)
+- **SAP Community** â Boost your SAP BusinessObjects BI 4.3 visualizations with Need4Viz addons
 
 ---
 
-## 🏢 About Need4Viz
+## ð Contact
 
-[Need4Viz](https://www.need4viz.com) is a French software company specializing in SAP BusinessObjects extensions. Our mission is to unlock the full potential of WebI by providing the visualization and distribution capabilities that enterprises need.
-
-**Contact:**
-- 🌐 [www.need4viz.com](https://www.need4viz.com)
-- 📧 [Contact Form](https://www.need4viz.com/contact/)
-- 🇫🇷 [Site Français](https://www.need4viz.com/fr/)
-
----
-
-## 🏷️ Topics
-
-`sap` `businessobjects` `webi` `web-intelligence` `data-visualization` `dataviz` `dashboard` `business-intelligence` `bi` `analytics` `gantt-chart` `maps` `gis` `natural-language-query` `nlq` `reporting` `sap-bo` `enterprise`
+- Website: [www.need4viz.com](https://www.need4viz.com)
+- Email: contact@need4viz.com
+- LinkedIn: [linkedin.com/company/n4v](https://fr.linkedin.com/company/n4v)
+- Documentation: [help.need4viz.com](https://help.need4viz.com)
+- Support: [support.need4viz.com](https://support.need4viz.com)
+- France: 37 rue des Mathurins, 75008 Paris
+- USA: 333 S.E. 2nd Avenue, Miami, FL
 
 ---
 
-## 📄 License
+## ð·ï¸ Topics
 
-N4V FOR WEBI is commercial software. [Contact Need4Viz](https://www.need4viz.com/contact/) for licensing information and trial requests.
+`sap` `businessobjects` `webi` `web-intelligence` `sap-bo` `data-visualization` `dataviz` `dashboard` `business-intelligence` `bi` `analytics` `gantt-chart` `maps` `gis` `natural-language-query` `nlq` `ai` `reporting` `sap-bi-2025` `enterprise` `french-tech`
 
 ---
 
-<p align="center">
-  <strong>Made with ❤️ by <a href="https://www.need4viz.com">Need4Viz</a> in France 🇫🇷</strong>
-</p>
+_Need4Viz â **Making the impossible possible in SAP Web Intelligence** since 2020._
