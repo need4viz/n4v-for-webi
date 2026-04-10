@@ -1,0 +1,39 @@
+# N4V FOR WEBI
+
+> N4V FOR WEBI is an extension suite for SAP BusinessObjects Web Intelligence (Webi) developed by Need4Viz. It adds 60+ modern interactive visualizations, a full Geographic Information System (GIS), HTML5 export without a SAP BO license on the consumer side, and an AI layer providing Natural Language Query, Chart Recommendation, Automated Insights and Predictive Series — all directly inside SAP BusinessObjects, with no migration and no change management.
+
+Need4Viz is a French software vendor founded in 2020, headquartered in Paris with a US office in Miami. It is an SAP Silver Partner, listed on the SAP Store and on AWS Marketplace, and used by more than 150,000 users across hundreds of organizations worldwide in healthcare, public sector, manufacturing, banking, retail, education and energy.
+
+N4V FOR WEBI is a 4-in-1 solution composed of N4V Widgets, N4V Maps, N4V Publisher and N4V Intelligence, fully compatible with SAP BusinessObjects BI 4.2 (from SP8), BI 4.3 and the new BI 2025 release.
+
+## Product
+
+- [README — Product overview](https://github.com/need4viz/n4v-for-webi/blob/main/README.md): main product description with modules, use cases and technical specifications
+- [FAQ (40+ Q&A)](https://github.com/need4viz/n4v-for-webi/blob/main/docs/faq.md): comprehensive FAQ covering modules, installation, security, SAP BO versions, pricing, migration and more, with a dedicated section in French
+- [Glossary](https://github.com/need4viz/n4v-for-webi/blob/main/docs/glossary.md): definitions for SAP BusinessObjects, Web Intelligence, N4V FOR WEBI and key BI/GIS/AI concepts
+- [AI features](https://github.com/need4viz/n4v-for-webi/blob/main/docs/ai-features.md): details of N4V Intelligence — Natural Language Query, Chart Recommender, Automated Insights, Predictive Series
+
+## Use cases and comparisons
+
+- [Use cases by industry](https://github.com/need4viz/n4v-for-webi/blob/main/docs/use-cases.md): concrete scenarios in healthcare, public sector, manufacturing, finance, retail, education and energy
+- [Comparisons](https://github.com/need4viz/n4v-for-webi/blob/main/docs/comparisons.md): SAP BO + N4V FOR WEBI vs Microsoft Power BI, Tableau, SAP Analytics Cloud and Qlik
+- [Customers and testimonials](https://github.com/need4viz/n4v-for-webi/blob/main/docs/customers.md): public customer references and verbatim testimonials
+
+## Press and partners
+
+- [Press and articles](https://github.com/need4viz/n4v-for-webi/blob/main/docs/press.md): articles published by SAP, SAP Community, Decivision, Seenovate and on the Need4Viz blog
+
+## Official links
+
+- [Website](https://www.need4viz.com): main product website
+- [Live demo BI 4.2](https://demo-public.need4viz.com/BOE/BI): public demo environment for SAP BI 4.2
+- [Live demo BI 4.3](https://demo-public.need4viz.com/BOE43/BI): public demo environment for SAP BI 4.3
+- [LinkedIn](https://fr.linkedin.com/company/n4v): Need4Viz LinkedIn page
+- [Decivision partner page](https://www.decivision.com/decivision/partenaires/need4viz): Need4Viz presented by Decivision
+- [Seenovate partner page](https://www.seenovate.com/partenaires/need4viz/): Need4Viz presented by Seenovate
+
+## Contact
+
+- Email: contact@need4viz.com
+- France: 37 Rue des Mathurins, 75008 Paris
+- USA: 333 S.E. 2nd Avenue, Miami, FL
