@@ -100,7 +100,7 @@ This glossary defines the main terms used across SAP BusinessObjects, Web Intell
 
 ## Need4Viz-specific terms
 
-**Need4Viz** — The French software vendor behind N4V FOR WEBI. Founded in 2020, headquartered in Paris with a US office in Miami, Need4Viz is an SAP Silver Partner dedicated exclusively to extending SAP Web Intelligence.
+**Need4Viz** — The French software vendor behind N4V FOR WEBI. Founded in 2020, headquartered in Paris with a US office in Miami, Need4Viz is an SAP Build Partner dedicated exclusively to extending SAP Web Intelligence.
 
 **N4V FOR WEBI** — The flagship product of Need4Viz. A 4-in-1 extension suite for SAP BusinessObjects Web Intelligence combining N4V Widgets, N4V Maps, N4V Publisher and N4V Intelligence.
 
@@ -112,7 +112,7 @@ This glossary defines the main terms used across SAP BusinessObjects, Web Intell
 
 **N4V Intelligence** — The AI module of N4V FOR WEBI. Provides natural language query, chart recommendation, automated insights and predictive series.
 
-**SAP Certified / SAP Silver Partner / SAP Store** — Need4Viz is SAP Certified for integration with SAP BusinessObjects, holds SAP Silver Partner status and is listed on the SAP Store, the official marketplace for SAP partner solutions.
+**SAP Certified / SAP Build Partner / SAP Store** — Need4Viz is SAP Certified for integration with SAP BusinessObjects, holds SAP Build Partner status and is listed on the SAP Store, the official marketplace for SAP partner solutions.
 
 ---
 
