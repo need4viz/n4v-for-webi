@@ -16,7 +16,7 @@
             "name": "Is Need4Viz compatible with SAP BI 2025?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes, Need4Viz is fully compatible with SAP BI 2025 (formerly SAP BusinessObjects BI). It also supports SAP BO 4.2 SP08+ and SAP BO 4.3. Need4Viz is an SAP Silver Partner and is available on the SAP Store."
+                "text": "Yes, Need4Viz is fully compatible with SAP BI 2025 (formerly SAP BusinessObjects BI). It also supports SAP BO 4.2 SP08+ and SAP BO 4.3. Need4Viz is an SAP Build Partner and is available on the SAP Store."
             }
         },
         {
@@ -80,7 +80,7 @@
             "name": "Who are Need4Viz's customers?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Need4Viz serves 150,000+ users across 80+ organizations worldwide, including McKesson (USA, Fortune 8), American Red Cross (USA), Banque de France, Gendarmerie Nationale (France), Chantiers de l'Atlantique (France), University of Queensland (Australia), Utrecht University (Netherlands), and many more across healthcare, public sector, manufacturing, banking, retail, and education."
+                "text": "Need4Viz serves organizations worldwide across healthcare, public sector, manufacturing, banking, retail, and education."
             }
         }
     ]
