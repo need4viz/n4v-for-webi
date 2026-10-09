@@ -1,12 +1,11 @@
 # N4V FOR WEBI — Customers and Testimonials
 
-N4V FOR WEBI is used by more than **150,000 users across hundreds of organizations** worldwide. This document lists publicly referenceable customers and highlights testimonials shared by users on the Need4Viz website.
+N4V FOR WEBI is used by organizations worldwide. This document lists publicly referenceable customers and highlights testimonials shared by users on the Need4Viz website.
 
 ---
 
 ## Global footprint
 
-- **150,000+** end users across the world
 - **Hundreds** of organizations in production
 - **20+** years of combined SAP BO expertise in the Need4Viz team
 - Customers on **all continents**
