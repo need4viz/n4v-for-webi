@@ -16,7 +16,7 @@ During the SAP Analytics Roadmap 2025 communications, SAP confirmed that Web Int
 An article on the SAP Community blog covering how Need4Viz add-ons extend SAP BusinessObjects BI 4.3 visualization capabilities.
 
 ### SAP Store listing
-N4V FOR WEBI is listed on the SAP Store, SAP's official marketplace for partner solutions. Customers can discover, evaluate and purchase N4V FOR WEBI directly through the SAP Store. Need4Viz holds SAP Silver Partner status.
+N4V FOR WEBI is listed on the SAP Store, SAP's official marketplace for partner solutions. Customers can discover, evaluate and purchase N4V FOR WEBI directly through the SAP Store. Need4Viz holds SAP Build Partner status.
 
 
 ---
