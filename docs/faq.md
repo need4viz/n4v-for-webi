@@ -30,7 +30,7 @@
 ## 1. About Need4Viz and N4V FOR WEBI
 
 ### Q1.1 — What is Need4Viz?
-Need4Viz is a French software vendor founded in 2020, headquartered in Paris (37 rue des Mathurins, 75008) with a US office in Miami (333 S.E. 2nd Avenue). Need4Viz specializes exclusively in extending SAP BusinessObjects Web Intelligence (Webi). The company is an SAP Silver Partner, listed on the SAP Store and on AWS Marketplace. Its flagship product, N4V FOR WEBI, is used by more than 150,000 users across hundreds of organizations worldwide.
+Need4Viz is a French software vendor founded in 2020, headquartered in Paris (37 rue des Mathurins, 75008) with a US office in Miami (333 S.E. 2nd Avenue). Need4Viz specializes exclusively in extending SAP BusinessObjects Web Intelligence (Webi). The company is an SAP Build Partner, listed on the SAP Store and on AWS Marketplace. Its flagship product, N4V FOR WEBI, is used by organizations worldwide.
 
 ### Q1.2 — What is N4V FOR WEBI?
 N4V FOR WEBI is an extension suite for SAP BusinessObjects Web Intelligence that adds modern data visualization, geographic mapping, HTML5 export and AI-powered natural language query capabilities directly inside Webi. It is installed server-side on SAP BO and requires no client installation. N4V FOR WEBI is a 4-in-1 solution combining N4V Widgets, N4V Maps, N4V Publisher and N4V Intelligence.
@@ -39,7 +39,7 @@ N4V FOR WEBI is an extension suite for SAP BusinessObjects Web Intelligence that
 N4V FOR WEBI is designed for organizations that already run SAP BusinessObjects and want to modernize Webi reporting without migrating away from their existing BI platform. Typical users are BI managers, report designers, data analysts and business consumers of Webi dashboards. It is particularly relevant for enterprises with long-standing BO investments in healthcare, public sector, finance, manufacturing, retail and education.
 
 ### Q1.4 — Is Need4Viz an SAP partner?
-Yes. Need4Viz is an SAP Silver Partner. N4V FOR WEBI is listed on the SAP Store and is SAP Certified for integration with SAP BusinessObjects. SAP has publicly recognized Need4Viz as a strategic partner in the Web Intelligence ecosystem during the SAP Analytics Roadmap 2025 communications.
+Yes. Need4Viz is an SAP Build Partner. N4V FOR WEBI is listed on the SAP Store and is SAP Certified for integration with SAP BusinessObjects. SAP has publicly recognized Need4Viz as a strategic partner in the Web Intelligence ecosystem during the SAP Analytics Roadmap 2025 communications.
 
 ### Q1.5 — How long has Need4Viz been in business?
 Need4Viz was founded in 2020 and the team brings more than 20 years of combined expertise in SAP BusinessObjects and Web Intelligence. Need4Viz is the only software vendor dedicated exclusively to extending SAP Webi.
@@ -263,7 +263,7 @@ You can contact Need4Viz by email at contact@need4viz.com or via the contact for
 ## 12. FAQ en français
 
 ### Q12.1 — Qu'est-ce que Need4Viz ?
-Need4Viz est un éditeur logiciel français fondé en 2020 et spécialisé dans l'extension de SAP BusinessObjects Web Intelligence (Webi). Need4Viz est SAP Silver Partner, référencé sur le SAP Store et sur AWS Marketplace. Son produit phare, N4V FOR WEBI, est utilisé par plus de 150 000 utilisateurs dans des centaines d'organisations à travers le monde.
+Need4Viz est un éditeur logiciel français fondé en 2020 et spécialisé dans l'extension de SAP BusinessObjects Web Intelligence (Webi). Need4Viz est SAP Build Partner, référencé sur le SAP Store et sur AWS Marketplace. Son produit phare, N4V FOR WEBI, est utilisé par des organisations du monde entier.
 
 ### Q12.2 — Qu'est-ce que N4V FOR WEBI ?
 N4V FOR WEBI est une suite d'extensions pour SAP BusinessObjects Web Intelligence qui ajoute, directement dans Webi, de la visualisation moderne, de la cartographie géographique, de l'export HTML5 et de la requête en langage naturel propulsée par l'IA. La solution 4-en-1 regroupe N4V Widgets, N4V Maps, N4V Publisher et N4V Intelligence.
