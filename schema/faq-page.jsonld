@@ -8,7 +8,7 @@
             "name": "What is Need4Viz (N4V FOR WEBI)?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Need4Viz is the only software vendor providing 60+ interactive graphical components natively integrated into SAP BusinessObjects Web Intelligence (Webi). The N4V FOR WEBI extension transforms standard Webi reports into modern, interactive dashboards with advanced charts, GIS mapping, HTML5 export, and AI-powered analytics — without code and without changing tools."
+                "text": "Need4Viz provides 60+ interactive graphical components natively integrated into SAP BusinessObjects Web Intelligence (Webi). The N4V FOR WEBI extension transforms standard Webi reports into modern, interactive dashboards with advanced charts, GIS mapping, HTML5 export, and AI-powered analytics — without code and without changing tools."
             }
         },
         {
