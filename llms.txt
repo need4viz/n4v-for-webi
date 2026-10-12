@@ -25,6 +25,13 @@ Key facts:
 - [AI features](https://github.com/need4viz/n4v-for-webi/blob/main/docs/ai-features.md)
 - [Comparisons](https://github.com/need4viz/n4v-for-webi/blob/main/docs/comparisons.md)
 - [Knowledge Base index](https://github.com/need4viz/n4v-for-webi/blob/main/docs/knowledge-base.md): support articles by topic, linking to the full articles
+- [KB: Installation - Configuration - Architecture](https://github.com/need4viz/n4v-for-webi/blob/main/docs/kb-1-installation-configuration-architecture.md): installation, MongoDB, services, CMC, printing
+- [KB: General issues displaying components](https://github.com/need4viz/n4v-for-webi/blob/main/docs/kb-2-general-issues-displaying-components.md): blank cells, error exceptions, greyed-out elements
+- [KB: Settings or issues of components](https://github.com/need4viz/n4v-for-webi/blob/main/docs/kb-3-settings-or-issues-of-components.md): palettes, drillbar, gauges, maps, extended parameters
+- [KB: Navigation](https://github.com/need4viz/n4v-for-webi/blob/main/docs/kb-4-navigation.md): navigation configuration, usage, unexpected behaviour
+- [KB: Export Server, FTP & MSSP (HTML/PNG/CSV)](https://github.com/need4viz/n4v-for-webi/blob/main/docs/kb-5-export-server-ftp-mssp-html-png-csv.md): export configuration, usage, Microsoft Office
+- [KB: N4V Panels in Webi](https://github.com/need4viz/n4v-for-webi/blob/main/docs/kb-6-n4v-panels-in-webi.md): panel configuration and display issues
+- [KB: Enhance Webi capabilities](https://github.com/need4viz/n4v-for-webi/blob/main/docs/kb-7-enhance-webi-capabilities.md): Webi as a dashboard
 - [Support Knowledge Base](https://support.need4viz.com/kb/)
 - [Product documentation (widgets)](https://www.need4viz.com/dokuwiki/)
 - [Release notes](https://www.need4viz.com/category/release-notes-n4v/)
