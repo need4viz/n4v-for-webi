@@ -38,7 +38,7 @@ A software suite that extends SAP BusinessObjects Web Intelligence (WebI) with a
 
 ## Documentation
 
-- [FAQ](docs/faq.md) · [Glossary](docs/glossary.md) · [Use cases](docs/use-cases.md) · [AI features](docs/ai-features.md) · [Comparisons](docs/comparisons.md) · [Knowledge Base index](docs/knowledge-base.md)
+- [FAQ](docs/faq.md) · [Glossary](docs/glossary.md) · [Use cases](docs/use-cases.md) · [AI features](docs/ai-features.md) · [Comparisons](docs/comparisons.md) · [Knowledge Base index](docs/knowledge-base.md) · [KB troubleshooting summaries](docs/kb-1-installation-configuration-architecture.md)
 - [Product documentation](https://www.need4viz.com/dokuwiki/) · [Release notes](https://www.need4viz.com/category/release-notes-n4v/) · [Support Knowledge Base](https://support.need4viz.com/kb/)
 - [Structured data (JSON-LD)](schema/) · [llms.txt](llms.txt)
 
