@@ -7,6 +7,18 @@ This page lists the public Need4Viz Knowledge Base articles for N4V FOR WEBI (ex
 - Release notes: https://www.need4viz.com/category/release-notes-n4v/
 - Support portal: https://www.need4viz.com/support/
 
+## Full-text summaries (symptom, cause, solution)
+
+The articles are also summarized in Markdown, one file per category, so that the symptom and the resolution can be read directly in this repository:
+
+- [1. Installation - Configuration - Architecture](kb-1-installation-configuration-architecture.md): installation, MongoDB, services, CMC, printing
+- [2. General issues displaying components](kb-2-general-issues-displaying-components.md): blank cells, error exceptions, greyed-out elements
+- [3. Settings or issues of components](kb-3-settings-or-issues-of-components.md): palettes, drillbar, gauges, maps, extended parameters
+- [4. Navigation](kb-4-navigation.md): navigation configuration, usage, unexpected behaviour
+- [5. Export Server, FTP & MSSP (HTML/PNG/CSV)](kb-5-export-server-ftp-mssp-html-png-csv.md): export configuration, usage, Microsoft Office
+- [6. N4V Panels in Webi](kb-6-n4v-panels-in-webi.md): panel configuration and display issues
+- [7. Enhance Webi capabilities](kb-7-enhance-webi-capabilities.md): Webi as a dashboard
+
 ## 1. Installation - Configuration - Architecture
 
 ### N4V Installation
