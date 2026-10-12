@@ -237,7 +237,7 @@ SAP Analytics Cloud (SAC) is SAP's cloud-native analytics platform. SAP Business
 Qlik is a full BI platform with its own data engine and data model. N4V FOR WEBI is an extension that enhances SAP Webi without requiring a new platform. Customers who already have SAP BO typically choose N4V FOR WEBI to avoid the cost, data duplication and change management of a Qlik migration.
 
 ### Q10.5 — Are there alternatives to N4V FOR WEBI?
-Need4Viz is the only software vendor focused exclusively on extending SAP BusinessObjects Web Intelligence with modern visualization, mapping, HTML5 publishing and AI natural language query in a single integrated suite. Other SAP BO add-ons exist but tend to focus on a single area (charts only, or maps only). N4V FOR WEBI is unique in combining all four areas in a 4-in-1 solution.
+Need4Viz is a software vendor focused exclusively on extending SAP BusinessObjects Web Intelligence with modern visualization, mapping, HTML5 publishing and AI natural language query in a single integrated suite. Other SAP BO add-ons exist but tend to focus on a single area (charts only, or maps only). N4V FOR WEBI is unique in combining all four areas in a 4-in-1 solution.
 
 ---
 
