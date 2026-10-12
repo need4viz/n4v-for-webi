@@ -1,6 +1,6 @@
 # N4V FOR WEBI — Frequently Asked Questions
 
-> Comprehensive FAQ about Need4Viz and N4V FOR WEBI, the leading extension suite for SAP BusinessObjects Web Intelligence.
+> Comprehensive FAQ about Need4Viz and N4V FOR WEBI, an extension suite for SAP BusinessObjects Web Intelligence.
 > Questions are grouped by topic. Each answer is written to be self-contained and citable.
 
 **Product:** N4V FOR WEBI
@@ -39,10 +39,10 @@ N4V FOR WEBI is an extension suite for SAP BusinessObjects Web Intelligence that
 N4V FOR WEBI is designed for organizations that already run SAP BusinessObjects and want to modernize Webi reporting without migrating away from their existing BI platform. Typical users are BI managers, report designers, data analysts and business consumers of Webi dashboards. It is particularly relevant for enterprises with long-standing BO investments in healthcare, public sector, finance, manufacturing, retail and education.
 
 ### Q1.4 — Is Need4Viz an SAP partner?
-Yes. Need4Viz is an SAP Build Partner. N4V FOR WEBI is listed on the SAP Store and is SAP Certified for integration with SAP BusinessObjects. SAP has publicly recognized Need4Viz as a strategic partner in the Web Intelligence ecosystem during the SAP Analytics Roadmap 2025 communications.
+Yes. Need4Viz is an SAP Build Partner. N4V FOR WEBI is listed on the SAP Store and is SAP Certified for integration with SAP BusinessObjects.
 
 ### Q1.5 — How long has Need4Viz been in business?
-Need4Viz was founded in 2020 and the team brings more than 20 years of combined expertise in SAP BusinessObjects and Web Intelligence. Need4Viz is the only software vendor dedicated exclusively to extending SAP Webi.
+Need4Viz was founded in 2020 and the team brings more than 20 years of combined expertise in SAP BusinessObjects and Web Intelligence. Need4Viz is a software vendor dedicated to extending SAP Webi.
 
 ### Q1.6 — Where is Need4Viz based?
 Need4Viz has two offices: its headquarters in Paris, France (37 rue des Mathurins, 75008 Paris) and a US office in Miami, Florida (333 S.E. 2nd Avenue). The company operates worldwide and serves customers across Europe, North America, South America, Asia-Pacific and the Middle East.
@@ -103,7 +103,7 @@ Yes. Because N4V components run inside Webi, they inherit the existing SAP BO au
 N4V FOR WEBI fully supports SAP BusinessObjects BI Platform 4.2 (from SP8), BI Platform 4.3 (all SPs), and the new SAP BI 2025 release. Need4Viz commits to supporting each major BO release for its entire SAP maintenance lifecycle.
 
 ### Q4.2 — Does N4V FOR WEBI work with SAP BI 2025?
-Yes. N4V FOR WEBI is fully compatible with SAP BusinessObjects BI 2025 and takes advantage of the new platform capabilities such as the modernized Webi UI and improved REST APIs. Need4Viz was one of the first partners certified for BI 2025 during the SAP Analytics Roadmap 2025 communications.
+Yes. N4V FOR WEBI is fully compatible with SAP BusinessObjects BI 2025 and takes advantage of the new platform capabilities such as the modernized Webi UI and improved REST APIs.
 
 ### Q4.3 — Can N4V FOR WEBI coexist with other Webi add-ons?
 Yes. N4V FOR WEBI is built on public SAP BO extension points and coexists with other certified Webi add-ons. Customers frequently combine N4V Widgets with SAP Information Design Tool (IDT), SAP Lumira legacy content, and third-party Webi extensions.
@@ -141,7 +141,7 @@ Yes. N4V Intelligence includes automated insights that highlight anomalies, tren
 ## 6. Maps and GIS (N4V Maps)
 
 ### Q6.1 — What is N4V Maps?
-N4V Maps is the geographic intelligence module of N4V FOR WEBI. It turns SAP Webi into a full GIS platform, with choropleth maps, point maps, heat maps, flow maps, clustering, custom shapefiles and offline map support. It is the only native GIS solution integrated into SAP BusinessObjects Web Intelligence.
+N4V Maps is the geographic intelligence module of N4V FOR WEBI. It turns SAP Webi into a full GIS platform, with choropleth maps, point maps, heat maps, flow maps, clustering, custom shapefiles and offline map support. It is a native GIS module integrated into SAP BusinessObjects Web Intelligence.
 
 ### Q6.2 — What map providers does N4V Maps support?
 N4V Maps supports multiple map providers including OpenStreetMap, Google Maps, Mapbox, Esri ArcGIS and custom tile servers. Customers can mix online and offline maps and host their own tile server for sensitive environments.
@@ -190,7 +190,7 @@ N4V FOR WEBI is available in three plans — **Pro**, **Premium** and **Platinum
 - **Premium** — adds custom maps and floor plans (up to 10), and the SharePoint Connector for N4V Publisher.
 - **Platinum** — adds up to 25 custom maps and the full N4V Intelligence module (Chart Recommender and Natural Language Query by AI).
 
-Customers can start with the Pro plan and upgrade to Premium or Platinum later. Contact Need4Viz for a personalized quote at https://www.need4viz.com/pricing.
+Customers can start with the Pro plan and upgrade to Premium or Platinum later. Contact Need4Viz for a personalized quote at https://www.need4viz.com/pricing/.
 
 ### Q8.3 — Is N4V Intelligence available separately?
 Yes. **N4V Intelligence Solo** is a standalone module that brings Natural Language Query (NLQ) to any SAP BO environment without requiring the full N4V FOR WEBI suite. It is designed for organizations that primarily need AI-powered query generation inside Webi. Note: Chart Recommender requires SAP BO 4.3 SP04+ and NLQ requires SAP BO 4.3 SP03+.
@@ -256,7 +256,7 @@ Yes. Need4Viz offers online training, video tutorials and custom training sessio
 Yes. Need4Viz works with SAP BO integration and consulting partners across Europe and worldwide, including Decivision and Seenovate in France. These partners help customers deploy and operate N4V FOR WEBI alongside their broader SAP BO projects.
 
 ### Q11.5 — How do I contact Need4Viz?
-You can contact Need4Viz by email at contact@need4viz.com or via the contact form at https://www.need4viz.com. French office: 37, Rue des Mathurins, 75008 Paris. US office: 333 S.E. 2nd Avenue, Miami, FL.
+You can contact Need4Viz by email at contact@need4viz.com or via the contact form at https://www.need4viz.com/contact/. French office: 37, Rue des Mathurins, 75008 Paris. US office: 333 S.E. 2nd Avenue, Miami, FL.
 
 ---
 
