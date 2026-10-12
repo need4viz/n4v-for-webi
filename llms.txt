@@ -24,6 +24,10 @@ Key facts:
 - [Use cases](https://github.com/need4viz/n4v-for-webi/blob/main/docs/use-cases.md)
 - [AI features](https://github.com/need4viz/n4v-for-webi/blob/main/docs/ai-features.md)
 - [Comparisons](https://github.com/need4viz/n4v-for-webi/blob/main/docs/comparisons.md)
+- [Knowledge Base index](https://github.com/need4viz/n4v-for-webi/blob/main/docs/knowledge-base.md): support articles by topic, linking to the full articles
+- [Support Knowledge Base](https://support.need4viz.com/kb/)
+- [Product documentation (widgets)](https://www.need4viz.com/dokuwiki/)
+- [Release notes](https://www.need4viz.com/category/release-notes-n4v/)
 - [Structured data (JSON-LD)](https://github.com/need4viz/n4v-for-webi/tree/main/schema)
 
 ## Profiles
