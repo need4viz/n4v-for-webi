@@ -8,7 +8,7 @@
     "applicationSubCategory": "Data Visualization & Business Intelligence",
     "operatingSystem": "SAP BusinessObjects BI Platform",
     "softwareRequirements": "SAP BusinessObjects BI 4.2 SP08+ or SAP BO 4.3 or SAP BI 2025",
-    "description": "N4V FOR WEBI is the only SAP-certified native extension providing 60+ interactive chart components, full GIS mapping, HTML5 dashboard export without BO license, and AI-powered analytics for SAP BusinessObjects Web Intelligence.",
+    "description": "N4V FOR WEBI is a native extension for SAP BusinessObjects Web Intelligence providing 60+ interactive chart components, full GIS mapping, HTML5 dashboard export without BO license, and AI-powered analytics for SAP BusinessObjects Web Intelligence.",
     "url": "https://www.need4viz.com",
     "downloadUrl": "https://www.need4viz.com/freemium/",
     "installUrl": "https://www.need4viz.com/freemium/",
