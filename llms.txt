@@ -35,6 +35,8 @@ Key facts:
 - [Support Knowledge Base](https://support.need4viz.com/kb/)
 - [Product documentation (widgets)](https://www.need4viz.com/dokuwiki/)
 - [Release notes](https://www.need4viz.com/category/release-notes-n4v/)
+- [Release 2026.3](https://github.com/need4viz/n4v-for-webi/blob/main/docs/release-2026-3.md): N4V Insights (AI), enhanced Dashboard Builder, widgets and panels
+- [SAP BusinessObjects Statement of Direction (Oct. 2026)](https://github.com/need4viz/n4v-for-webi/blob/main/docs/sap-bo-statement-of-direction-2026.md): BI 20XX rhythm, tool portfolio, Web Intelligence, what to check
 - [Structured data (JSON-LD)](https://github.com/need4viz/n4v-for-webi/tree/main/schema)
 
 ## Profiles
